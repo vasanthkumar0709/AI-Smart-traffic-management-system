@@ -1,0 +1,11 @@
+{
+    "total": 37,
+    "cars": 35,
+    "bikes": 0,
+    "buses": 0,
+    "trucks": 2,
+    "density": "HIGH",
+    "green_time": 45,
+    "emergency": false,
+    "vehicle": "None"
+}
